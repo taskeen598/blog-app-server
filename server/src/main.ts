@@ -11,8 +11,8 @@ async function bootstrap() {
     origin: [
       'https://week-7-8-blogia-client.vercel.app',
       'https://week-7-blogia-admin.vercel.app',
-      'https://blog-app-client-tau-eosin.vercel.app/',
-      'https://blog-app-admin-nine.vercel.app/auth/login',
+      'https://blog-app-client-tau-eosin.vercel.app',
+      'https://blog-app-admin-nine.vercel.app',
       'https://challenge-8-frontend.vercel.app',
       'http://localhost:3001',
       'http://localhost:3000'
